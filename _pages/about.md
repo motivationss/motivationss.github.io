@@ -14,7 +14,7 @@ About Me
 ======
 ---
 
-I'm a second-year PhD student in Computer Science at University of Illinois Urbana-Champaign, working under the supervision of [Hanghang Tong](http://tonghanghang.org/). Prior to this, I earned my bachelor’s degree from the University of Michigan. My research interests lie broadly in large language models and graph machine learning.
+I'm a first-year PhD student in Computer Science at University of Illinois Urbana-Champaign, working under the supervision of [Hanghang Tong](http://tonghanghang.org/). Prior to this, I earned my bachelor’s degree from the University of Michigan. My research interests lie broadly in large language models and graph machine learning.
 
 Email: gaotang3 \[at\] illinois [dot] edu 
 
