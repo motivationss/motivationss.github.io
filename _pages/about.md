@@ -24,12 +24,10 @@ Papers
 (\* denotes equal contribution)
 
 * [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475)<br> 
-* On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks<br>
 Jiong Zhu\*, **Gaotang Li**\*, Yao-An Yang, Jing Zhu, Xuehao Cui, Danai Koutra<br>
 *Neural Information Processing Systems (NeurIPS), 2024*<br> 
 
 * [Bias Amplification Enhances Minority Group Performance](http://arxiv.org/abs/2309.06717)<br>
-* Bias Amplification Enhances Minority Group Performance<br>
 **Gaotang Li**\*, Jiarui Liu\*, Wei Hu<br>
 *Transactions on Machine Learning Research (TMLR), 2024*<br> 
 
